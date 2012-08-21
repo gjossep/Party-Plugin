@@ -1,0 +1,8 @@
+name: Partys
+main: nl.gjosse.Partys
+version: 1.0.0
+commands:
+    Party:
+      description: This is a FunStuff command
+      usage: do /FunStuff help for more info.
+      permission: FunStuff.default
